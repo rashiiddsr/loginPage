@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">intent_login_percabangan_806_B</string>
+    <string name="title">Form Login</string>
+    <string name="hint_username">Masukkan Nama Pengguna</string>
+    <string name="hint_password">Masukkan Sandi</string>
+    <string name="checkbox">Tampilkan Sandi</string>
+    <string name="button_login">Login</string>
+    <string name="button_batal">Batal</string>
+    <string name="wrongUserPass">Nama pengguna atau kata sandi salah!</string>
+    <string name="emptyUserPass">Nama pengguna atau kata sandi tidak boleh kosong!</string>
+    <string name="wrong">Ok</string>
+</resources>
