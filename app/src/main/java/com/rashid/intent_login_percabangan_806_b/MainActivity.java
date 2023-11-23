@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                 userDefault = "admin";
                 passwordDefault = "1234";
                 if (Objects.equals(usernameLogin, userDefault) && Objects.equals(passwordLogin, passwordDefault)) {
-                    Intent intent = new Intent(this, biodata.class);
+                    Intent intent = new Intent(this, biodataActivity.class);
                     this.startActivity(intent);
                 } else {
                     AlertDialog.Builder builder = new AlertDialog.Builder(this);

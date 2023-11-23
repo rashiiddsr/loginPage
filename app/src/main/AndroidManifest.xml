@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Intent_login_percabangan_806_B"
         tools:targetApi="31">
         <activity
+            android:name=".biodataActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
